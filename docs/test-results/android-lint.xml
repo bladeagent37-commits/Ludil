@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.7.3">
+
+    <issue
+        id="InsecureBaseConfiguration"
+        severity="Warning"
+        message="Insecure Base Configuration"
+        category="Security"
+        priority="5"
+        summary="Insecure Base Configuration"
+        explanation="Permitting cleartext traffic could allow eavesdroppers to intercept data sent by your app, which impacts the privacy of your users. Consider only allowing encrypted traffic by setting the `cleartextTrafficPermitted` tag to `false`."
+        url="https://goo.gle/InsecureBaseConfiguration"
+        urls="https://goo.gle/InsecureBaseConfiguration,https://developer.android.com/preview/features/security-config.html"
+        errorLine1="&lt;network-security-config>&lt;base-config cleartextTrafficPermitted=&quot;true&quot;>&lt;trust-anchors>&lt;certificates src=&quot;system&quot; />&lt;/trust-anchors>&lt;/base-config>&lt;/network-security-config>"
+        errorLine2="                                                                 ~~~~">
+        <location
+            file="/workspace/scratch/44b541063943/Ludil/app/src/main/res/xml/network_security_config.xml"
+            line="1"
+            column="66"/>
+    </issue>
+
+</issues>

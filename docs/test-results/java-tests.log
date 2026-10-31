@@ -1,0 +1,17 @@
+We need to get out of here. => Buradan çıkmalıyız. [270 ms]
+TOKENS [39, 79, 325, 5, 499, 196, 6, 947, 2, 0]
+Stay here. I will find another way. => Burada kal, başka bir yol bulacağım. [421 ms]
+TOKENS [39, 26213, 947, 2, 53, 28, 457, 436, 234, 2, 0]
+The door is locked. Find the key. => Kapı kilitli, anahtarı bulun. [503 ms]
+TOKENS [39, 77, 4657, 19, 24327, 2, 3558, 4, 1965, 2, 0]
+Hello, how are you? => Merhaba, nasılsın? [237 ms]
+TOKENS [39, 18321, 3, 194, 51, 18, 10, 0]
+Do not move. => Kıpırdama. [279 ms]
+TOKENS [39, 296, 22, 1588, 2, 0]
+We have to leave before it is too late. => Çok geç olmadan gitmemiz gerek. [319 ms]
+TOKENS [39, 79, 44, 5, 1184, 247, 34, 19, 737, 6093, 2, 0]
+GATE PASS
+RECEIVER PASS: pairing, auth, code reuse, Origin, UTF-8, TTL bound, replay, empty text, clear, size limit
+RECEIVER LIFECYCLE PASS: 12 immediate close/restart cycles
+GATE REGRESSIONS PASS: 38 checks
+C# → JAVA TV INTEROP PASS: pairing, 16 concurrent sends, ordered IDs, UTF-8, clear

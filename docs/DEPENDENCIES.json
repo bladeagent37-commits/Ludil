@@ -1,0 +1,40 @@
+{
+  "model_source": "Helsinki-NLP/opus-mt-en-trk",
+  "model_revision": "f9d8f6cd9d95d2f8ce34943c1f6cfe610d3bbf92",
+  "onnx_source": "onnx-community/opus-mt-en-trk-ONNX",
+  "onnx_revision": "c02b76706e40968d787ea4f36659bb4e63466f61",
+  "forced_target": "tur",
+  "target_language_token": 39,
+  "files": [
+    {
+      "path": "app/libs/onnxruntime-android-1.22.0.aar",
+      "bytes": 28515295,
+      "sha256": "04a4617a9c797cf49225595e45b5546081cb34c86ac817581141577d3b7dbfe2"
+    },
+    {
+      "path": "app/libs/tesseract4android-4.9.0.aar",
+      "bytes": 12848454,
+      "sha256": "bce5d6413a1a5ae3d7240033fbbc851ba3217d0a08d9769400e17a077f42cb2a"
+    },
+    {
+      "path": "app/src/main/assets/translation/tokenizer.bin",
+      "bytes": 1559759,
+      "sha256": "3e9eff5cab6800b24b5d5a808018f0c02daac28afd93ef8417b24247bdf3edc0"
+    },
+    {
+      "path": "app/src/main/assets/translation/decoder.onnx",
+      "bytes": 184759796,
+      "sha256": "fdc8d2c563276fe79646ef9232c57963b399ee8f05e99ff564667d3f26c33c9b"
+    },
+    {
+      "path": "app/src/main/assets/translation/encoder.onnx",
+      "bytes": 51171654,
+      "sha256": "43dde04dda26379aec9853e8ce186513058dc248acf2840f8d919029a0fa9e3d"
+    },
+    {
+      "path": "app/src/main/assets/eng.traineddata",
+      "bytes": 4113088,
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+    }
+  ]
+}

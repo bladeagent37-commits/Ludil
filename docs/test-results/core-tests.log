@@ -1,0 +1,15 @@
+We need to get out of here. => Buradan çıkmalıyız. (333 ms)
+Stay here. I will find another way. => Burada kal, başka bir yol bulacağım. (510 ms)
+The door is locked. Find the key. => Kapı kilitli, anahtarı bulun. (500 ms)
+Hello, how are you? => Merhaba, nasılsın? (243 ms)
+Do not move. => Kıpırdama. (303 ms)
+C# ENGINE + GATE PASS
+SESSION INVALIDATION PASS
+SETTINGS COMPATIBILITY + TURKISH NAMES + 120 PROFILES PASS
+Open the gate. => Kapıyı aç.
+I am looking for my brother. => Kardeşimi arıyorum.
+We don't have much time. => Fazla vaktimiz yok.
+You saved my life. => Hayatımı kurtardın.
+Follow me, and stay quiet. => Beni takip et ve sessiz ol.
+Where is the village? => Köy nerede?
+DEEP REGRESSIONS PASS: 74 checks; 10000 concurrent session invalidations
