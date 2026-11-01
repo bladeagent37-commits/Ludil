@@ -1,0 +1,69 @@
+{
+  "version": "0.4.0",
+  "passed": true,
+  "clips": 3,
+  "decoded_ocr_samples": 72,
+  "assertions": 18,
+  "checks": [
+    "Real video OCR → menu translation: Yeni Oyun",
+    "Real video OCR → menu translation: Devam Et",
+    "Real video OCR → menu translation: Ayarlar",
+    "Real video OCR → menu translation: Çözünürlük: 1920x1080",
+    "Real video OCR → menu translation: Doku Kalitesi: Yüksek",
+    "Real video OCR → menu translation: Fare Hassasiyeti: 50",
+    "Unknown menu sentence uses real ONNX fallback",
+    "Real video OCR → ONNX subtitle: Buradan çıkmalıyız",
+    "Real video OCR → ONNX subtitle: Kıpırdama",
+    "Real video OCR → ONNX subtitle: Kapıyı aç",
+    "Subtitle can reappear after a blank scene",
+    "Two-letter menu values survive OCR and stabilization",
+    "No caption remains in a blank decoded frame",
+    "No caption remains in a blank decoded frame",
+    "No caption remains in a blank decoded frame",
+    "No caption remains in a blank decoded frame",
+    "No caption remains in a blank decoded frame",
+    "No caption remains in a blank decoded frame"
+  ],
+  "seconds": 27.16,
+  "environment": {
+    "ocr": "tesseract 5.3.4",
+    "platform": "Local host; synthetic videos + Tesseract CLI + production C# Core"
+  },
+  "limitations": [
+    "Not native Windows screen capture",
+    "Not Android device execution",
+    "Not a real game, TCL HDMI or PlayStation test"
+  ],
+  "videos": [
+    {
+      "file": "menus-input.mp4",
+      "bytes": 97782,
+      "sha256": "7cc1bd083718c3639395acb15d93e549231d78dc7868cdb1bd47139e7a3ec45d"
+    },
+    {
+      "file": "menus-translated.mp4",
+      "bytes": 116583,
+      "sha256": "2dc4e7458b37053e20f8d71bfbf0d9ced09353cce3933ac86fccf376c94f1630"
+    },
+    {
+      "file": "subtitles-input.mp4",
+      "bytes": 38044,
+      "sha256": "a92fd4cd20ac8aedc015b36caccf0603f4643af37e60e62257db25a06ab2edd3"
+    },
+    {
+      "file": "subtitles-translated.mp4",
+      "bytes": 44136,
+      "sha256": "bfe54ce1953a866456b29e04826ff6f44788d668db312272b60599e5030c3831"
+    },
+    {
+      "file": "transitions-input.mp4",
+      "bytes": 42686,
+      "sha256": "d359c98e980d5ee6aba3b84289685f815d25eb4e7523c5f85bacfa66b9ccad52"
+    },
+    {
+      "file": "transitions-translated.mp4",
+      "bytes": 51327,
+      "sha256": "d121c0d289db7bedadd80b37b60b515816c1fae49b7aa24b9fe335239a477a49"
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 plugins { id 'com.android.application' }
+def ludilSigningStore = System.getenv('LUDIL_SIGNING_STORE') ?: System.getenv('LODIL_SIGNING_STORE')
+def ludilSigningPassword = System.getenv('LUDIL_SIGNING_PASSWORD') ?: System.getenv('LODIL_SIGNING_PASSWORD')
+def ludilSigningAlias = System.getenv('LUDIL_SIGNING_ALIAS') ?: System.getenv('LODIL_SIGNING_ALIAS') ?: 'lodil'
 android {
-    namespace 'app.lodil'
+    namespace 'app.ludil'
     compileSdk 35
     buildToolsVersion '35.0.0'
     androidResources { noCompress += ['onnx','bin']; ignoreAssetsPattern = '.*' }
@@ -8,24 +11,24 @@ android {
         applicationId 'app.lodil'
         minSdk 26
         targetSdk 35
-        versionCode 3
-        versionName '0.3.0'
+        versionCode 4
+        versionName '0.4.0'
         ndk { abiFilters 'arm64-v8a', 'armeabi-v7a', 'x86_64' }
     }
     signingConfigs {
         release {
-            if (System.getenv('LODIL_SIGNING_STORE')) {
-                storeFile file(System.getenv('LODIL_SIGNING_STORE'))
-                storePassword System.getenv('LODIL_SIGNING_PASSWORD')
-                keyAlias System.getenv('LODIL_SIGNING_ALIAS') ?: 'lodil'
-                keyPassword System.getenv('LODIL_SIGNING_PASSWORD')
+            if (ludilSigningStore) {
+                storeFile file(ludilSigningStore)
+                storePassword ludilSigningPassword
+                keyAlias ludilSigningAlias
+                keyPassword ludilSigningPassword
             }
         }
     }
     buildTypes {
         release {
             minifyEnabled false
-            if (System.getenv('LODIL_SIGNING_STORE')) signingConfig signingConfigs.release
+            if (ludilSigningStore) signingConfig signingConfigs.release
         }
     }
     compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }

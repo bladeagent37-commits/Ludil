@@ -1,0 +1,794 @@
+[
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 10000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9613837442857143
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 10500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.96403508
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 11000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9612541314285714
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 11500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9640629371428573
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 12000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9640629371428573
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 12500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9640629371428573
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 13000,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9635344933333333
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 13500,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9650199899999999
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 14000,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9636629233333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 14500,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9636629233333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 15000,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9636629233333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 15500,
+    "expected_lines": [
+      "Do not move."
+    ],
+    "text": "Do not move.",
+    "confidence": 0.9633058666666666
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 16000,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 16500,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 17000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9602431285714286
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 17500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9634337171428571
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 18000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9634337171428571
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 18500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9634337171428571
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 19000,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9634337171428571
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 19500,
+    "expected_lines": [
+      "We need to get out of here."
+    ],
+    "text": "We need to get out of here.",
+    "confidence": 0.9634337171428571
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 20000,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9637594366666667
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 20500,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9652839433333333
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 21000,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9654184733333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 21500,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9654184733333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 22000,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9654184733333334
+  },
+  {
+    "clip": "subtitles",
+    "mode": "subtitle",
+    "time_ms": 22500,
+    "expected_lines": [
+      "Open the gate."
+    ],
+    "text": "Open the gate.",
+    "confidence": 0.9654184733333334
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 10000,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9650469979999999
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 10500,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9647688600000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 11000,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9656253960000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 11500,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.965257644
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 12000,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9651642920000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 12500,
+    "expected_lines": [
+      "New Game",
+      "Continue",
+      "Settings",
+      "Exit"
+    ],
+    "text": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.965382998
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 13000,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9667821499999999
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 13500,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9661603700000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 14000,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9662613539999999
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 14500,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.966461534
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 15000,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9651540539999999
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 15500,
+    "expected_lines": [
+      "Graphics",
+      "Audio",
+      "Controls",
+      "Accessibility",
+      "Back"
+    ],
+    "text": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.965170076
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 16000,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.948968704
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 16500,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.949276384
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 17000,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.940395913
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 17500,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.938645692
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 18000,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9527149130000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 18500,
+    "expected_lines": [
+      "Resolution: 1920x1080",
+      "Texture Quality: High",
+      "Mouse Sensitivity: 50",
+      "V-Sync: Off"
+    ],
+    "text": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.949542481
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 19000,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.960128595
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 19500,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.9594163125
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 20000,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.9618047900000001
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 20500,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.9616875075
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 21000,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.96033737
+  },
+  {
+    "clip": "menus",
+    "mode": "menu",
+    "time_ms": 21500,
+    "expected_lines": [
+      "Choose your destiny.",
+      "Settings"
+    ],
+    "text": "Choose your destiny.\nSettings",
+    "confidence": 0.9593823825
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 10000,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 10500,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 11000,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 11500,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 12000,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 12500,
+    "expected_lines": [
+      "On"
+    ],
+    "text": "On",
+    "confidence": 0.9668819399999999
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 13000,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 13500,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 14000,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 14500,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 15000,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 15500,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 16000,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 16500,
+    "expected_lines": [
+      "Off"
+    ],
+    "text": "Off",
+    "confidence": 0.96673851
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 17000,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9463179944444444
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 17500,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9506415322222221
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 18000,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9496056788888889
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 18500,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9499720766666667
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 19000,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9498771144444444
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 19500,
+    "expected_lines": [
+      "Key Bindings",
+      "Invert Y Axis: Off",
+      "Apply Changes",
+      "Cancel"
+    ],
+    "text": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9513587011111112
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 20000,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  },
+  {
+    "clip": "transitions",
+    "mode": "menu",
+    "time_ms": 20500,
+    "expected_lines": [],
+    "text": "",
+    "confidence": 0
+  }
+]

@@ -1,0 +1,3 @@
+Environment: Linux Mono visual harness; production layout/theme sources.
+Sizes: 1040x750, 900x650; four pages.
+Passed: True

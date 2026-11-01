@@ -1,0 +1,13 @@
+{
+  "version": "0.4.0",
+  "passed": true,
+  "checks": [
+    "APK CRC, all model SHA-256 hashes, exactly three translation files, shared menu glossary, three ABIs, no private key",
+    "Windows ZIP CRC, executable PE header, self-contained runtime, OCR libraries, model hashes, every file manifest hash, MIT and dependency licenses"
+  ],
+  "does_not_verify": [
+    "Windows native execution/capture",
+    "Android device execution",
+    "TCL HDMI/PlayStation compatibility"
+  ]
+}

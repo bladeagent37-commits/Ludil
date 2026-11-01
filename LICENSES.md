@@ -1,6 +1,6 @@
 # Üçüncü taraf lisansları
 
-Lodil kaynak kodu kökteki [MIT lisansı](LICENSE) ile sunulur. Katkılar da aynı lisans kapsamındadır. Bağımlılıklar ve modeller aşağıdaki kendi lisanslarıyla dağıtılır; MIT lisansı bunların yerine geçmez.
+Ludil kaynak kodu kökteki [MIT lisansı](LICENSE) ile sunulur. Katkılar da aynı lisans kapsamındadır. Bağımlılıklar ve modeller aşağıdaki kendi lisanslarıyla dağıtılır; MIT lisansı bunların yerine geçmez.
 
 Paketlenmiş bağımlılık ve modellerin kendi lisansları geçerlidir. `docs/licenses/` ve APK içindeki **Yardım ve durum → Açık kaynak lisansları** bölümüne bak.
 

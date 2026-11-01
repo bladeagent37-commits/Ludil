@@ -12,6 +12,8 @@ TV APK’sında alıcı yalnızca kullanıcı başlatınca açılır. Port 8765.
 
 Kimlikler monoton artmalıdır. Tekrarlanan/eski kimlik 409 alır. Çeviri en fazla 1600, kaynak en fazla 800 karakter. TTL 500–10000 ms arasında sınırlandırılır. Yazı süresi istemci saatine değil TV’nin monoton saatine göre hesaplanır.
 
+v0.4.0 geliştirme sürümü isteğe bağlı `"menu":true` alanını ekler. Yeni alıcı bunu menü paneli yerleşimi için kullanır; alan yoksa veya `false` ise normal altyazı yerleşimi seçilir. Yeni menü görünümünü denemek için her iki uçta da uyumlu geliştirme sürümü gerekir. Kimlik, eşleştirme, boyut ve TTL kuralları aynıdır; v0.3.0 mesaj biçimi kabul edilmeye devam eder.
+
 - `POST /clear`: aynı yetkiyle `{"id":2}`.
 - Yetkisiz istekler reddedilir. `Origin` bulunan tarayıcı istekleri reddedilir; CORS izni verilmez.
 - Gövde en fazla 8192 bayt; socket zaman aşımı üç saniye; iki iş parçacığı ve dört bekleyen istek sınırı.

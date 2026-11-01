@@ -1,0 +1,22 @@
+[
+  {"source":"NEW GAME","expected":"Yeni Oyun"},
+  {"source":"continue","expected":"Devam Et"},
+  {"source":"Settings","expected":"Ayarlar"},
+  {"source":"Graphics Settings","expected":"Grafik Ayarları"},
+  {"source":"Resolution: 1920x1080","expected":"Çözünürlük: 1920x1080"},
+  {"source":"Fullscreen On","expected":"Tam Ekran: Açık"},
+  {"source":"Texture Quality: High","expected":"Doku Kalitesi: Yüksek"},
+  {"source":"[Esc] Back","expected":"[Esc] Geri"},
+  {"source":"Esc - Back","expected":"Esc - Geri"},
+  {"source":"Refresh Rate: 144 Hz","expected":"Yenileme Hızı: 144 Hz"},
+  {"source":"Mouse Sensitivity: 50%","expected":"Fare Hassasiyeti: 50%"},
+  {"source":"Invert Y Axis: Off","expected":"Y Eksenini Ters Çevir: Kapalı"},
+  {"source":"Key Bindings","expected":"Tuş Atamaları"},
+  {"source":"Save Game","expected":"Oyunu Kaydet"},
+  {"source":"Audio Language","expected":"Seslendirme Dili"},
+  {"source":"Subtitle Language: English","expected":"Altyazı Dili: İngilizce"},
+  {"source":"On","expected":"Açık"},
+  {"source":"Off","expected":"Kapalı"},
+  {"source":"  Master   Volume: 75  ","expected":"Ana Ses: 75"},
+  {"source":"Window Mode: Borderless","expected":"Pencere Modu: Kenarlıksız"}
+]

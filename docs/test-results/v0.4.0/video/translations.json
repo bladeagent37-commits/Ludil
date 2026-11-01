@@ -1,0 +1,722 @@
+[
+  {
+    "clip": "subtitles",
+    "time_ms": 10000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96138376,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 10500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9640351,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": true,
+    "translation_ms": 2363
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 11000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9612541,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 11500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9640629,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 12000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9640629,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 12500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9640629,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 13000,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.9635345,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 13500,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.96502,
+    "translation": "Kıpırdama.",
+    "emitted": true,
+    "translation_ms": 333
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 14000,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.9636629,
+    "translation": "Kıpırdama.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 14500,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.9636629,
+    "translation": "Kıpırdama.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 15000,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.9636629,
+    "translation": "Kıpırdama.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 15500,
+    "mode": "subtitle",
+    "input": "Do not move.",
+    "confidence": 0.9633059,
+    "translation": "Kıpırdama.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 16000,
+    "mode": "subtitle",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 16500,
+    "mode": "subtitle",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 17000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.9602431,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 17500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96343374,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 18000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96343374,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 18500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96343374,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 19000,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96343374,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 19500,
+    "mode": "subtitle",
+    "input": "We need to get out of here.",
+    "confidence": 0.96343374,
+    "translation": "Buradan çıkmalıyız.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 20000,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.9637594,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 20500,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.96528393,
+    "translation": "Kapıyı aç.",
+    "emitted": true,
+    "translation_ms": 293
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 21000,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.96541846,
+    "translation": "Kapıyı aç.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 21500,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.96541846,
+    "translation": "Kapıyı aç.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 22000,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.96541846,
+    "translation": "Kapıyı aç.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "subtitles",
+    "time_ms": 22500,
+    "mode": "subtitle",
+    "input": "Open the gate.",
+    "confidence": 0.96541846,
+    "translation": "Kapıyı aç.",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 10000,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.965047,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 10500,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9647689,
+    "translation": "Yeni Oyun\nDevam Et\nAyarlar\nÇıkış",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 11000,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9656254,
+    "translation": "Yeni Oyun\nDevam Et\nAyarlar\nÇıkış",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 11500,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.96525764,
+    "translation": "Yeni Oyun\nDevam Et\nAyarlar\nÇıkış",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 12000,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.9651643,
+    "translation": "Yeni Oyun\nDevam Et\nAyarlar\nÇıkış",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 12500,
+    "mode": "menu",
+    "input": "New Game\nContinue\nSettings\nExit",
+    "confidence": 0.965383,
+    "translation": "Yeni Oyun\nDevam Et\nAyarlar\nÇıkış",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 13000,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.96678215,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 13500,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.96616036,
+    "translation": "Grafik\nSes\nKontroller\nErişilebilirlik\nGeri",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 14000,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9662613,
+    "translation": "Grafik\nSes\nKontroller\nErişilebilirlik\nGeri",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 14500,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.96646154,
+    "translation": "Grafik\nSes\nKontroller\nErişilebilirlik\nGeri",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 15000,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.96515405,
+    "translation": "Grafik\nSes\nKontroller\nErişilebilirlik\nGeri",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 15500,
+    "mode": "menu",
+    "input": "Graphics\nAudio\nControls\nAccessibility\nBack",
+    "confidence": 0.9651701,
+    "translation": "Grafik\nSes\nKontroller\nErişilebilirlik\nGeri",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 16000,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9489687,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 16500,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9492764,
+    "translation": "Çözünürlük: 1920x1080\nDoku Kalitesi: Yüksek\nFare Hassasiyeti: 50\nDikey Senkronizasyon: Kapalı",
+    "emitted": true,
+    "translation_ms": 1
+  },
+  {
+    "clip": "menus",
+    "time_ms": 17000,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9403959,
+    "translation": "Çözünürlük: 1920x1080\nDoku Kalitesi: Yüksek\nFare Hassasiyeti: 50\nDikey Senkronizasyon: Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 17500,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9386457,
+    "translation": "Çözünürlük: 1920x1080\nDoku Kalitesi: Yüksek\nFare Hassasiyeti: 50\nDikey Senkronizasyon: Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 18000,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.9527149,
+    "translation": "Çözünürlük: 1920x1080\nDoku Kalitesi: Yüksek\nFare Hassasiyeti: 50\nDikey Senkronizasyon: Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 18500,
+    "mode": "menu",
+    "input": "Resolution: 1920x1080\nTexture Quality: High\nMouse Sensitivity: 50\nV-Sync: Off",
+    "confidence": 0.94954246,
+    "translation": "Çözünürlük: 1920x1080\nDoku Kalitesi: Yüksek\nFare Hassasiyeti: 50\nDikey Senkronizasyon: Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 19000,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.9601286,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 19500,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.95941633,
+    "translation": "Kaderini seç.\nAyarlar",
+    "emitted": true,
+    "translation_ms": 250
+  },
+  {
+    "clip": "menus",
+    "time_ms": 20000,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.9618048,
+    "translation": "Kaderini seç.\nAyarlar",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 20500,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.9616875,
+    "translation": "Kaderini seç.\nAyarlar",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 21000,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.96033734,
+    "translation": "Kaderini seç.\nAyarlar",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "menus",
+    "time_ms": 21500,
+    "mode": "menu",
+    "input": "Choose your destiny.\nSettings",
+    "confidence": 0.95938236,
+    "translation": "Kaderini seç.\nAyarlar",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 10000,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 10500,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "Açık",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 11000,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "Açık",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 11500,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "Açık",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 12000,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "Açık",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 12500,
+    "mode": "menu",
+    "input": "On",
+    "confidence": 0.96688193,
+    "translation": "Açık",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 13000,
+    "mode": "menu",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 13500,
+    "mode": "menu",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 14000,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 14500,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "Kapalı",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 15000,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 15500,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 16000,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 16500,
+    "mode": "menu",
+    "input": "Off",
+    "confidence": 0.9667385,
+    "translation": "Kapalı",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 17000,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.946318,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 17500,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9506415,
+    "translation": "Tuş Atamaları\nY Eksenini Ters Çevir: Kapalı\nDeğişiklikleri Uygula\nVazgeç",
+    "emitted": true,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 18000,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9496057,
+    "translation": "Tuş Atamaları\nY Eksenini Ters Çevir: Kapalı\nDeğişiklikleri Uygula\nVazgeç",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 18500,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9499721,
+    "translation": "Tuş Atamaları\nY Eksenini Ters Çevir: Kapalı\nDeğişiklikleri Uygula\nVazgeç",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 19000,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.94987714,
+    "translation": "Tuş Atamaları\nY Eksenini Ters Çevir: Kapalı\nDeğişiklikleri Uygula\nVazgeç",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 19500,
+    "mode": "menu",
+    "input": "Key Bindings\nInvert Y Axis: Off\nApply Changes\nCancel",
+    "confidence": 0.9513587,
+    "translation": "Tuş Atamaları\nY Eksenini Ters Çevir: Kapalı\nDeğişiklikleri Uygula\nVazgeç",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 20000,
+    "mode": "menu",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  },
+  {
+    "clip": "transitions",
+    "time_ms": 20500,
+    "mode": "menu",
+    "input": "",
+    "confidence": 0,
+    "translation": "",
+    "emitted": false,
+    "translation_ms": 0
+  }
+]

@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=Lodil Release, O=Lodil, C=TR
+Signer #1 certificate SHA-256 digest: af4abcea99afa1c357e0179514b0a30341ee93cce150f16de46f8e6310212d03
+Signer #1 certificate SHA-1 digest: c608541a95bdb7c6e5f5c8d11b1815b5b9ed39cf
+Signer #1 certificate MD5 digest: 807d40b080d9945af8aa131080b2ff68
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 4096
+Signer #1 public key SHA-256 digest: 1e35dce5cb10f988446a0e41cf8088148875ccc5e1af85487f072ec7486371e1
+Signer #1 public key SHA-1 digest: b3a7712214a458cf71045a035e49d9a71af3d5bf
+Signer #1 public key MD5 digest: 7e0d2168107363573ab0c87b517f67d2

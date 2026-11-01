@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lodil: optional local video/screen OCR, offline EN->TR, paired TV delivery."""
+"""Ludil: optional local video/screen OCR, offline EN->TR, paired TV delivery."""
 from __future__ import annotations
 import argparse, collections, hmac, http.server, ipaddress, json, re, secrets, socket, struct, sys, threading, time
 import urllib.parse, urllib.request
@@ -157,7 +157,7 @@ def serve(translator,port):
     finally:server.server_close()
 
 def main():
-    parser=argparse.ArgumentParser(description='Lodil • yerel İngilizce → Türkçe yardımcı')
+    parser=argparse.ArgumentParser(description='Ludil • yerel İngilizce → Türkçe yardımcı')
     parser.add_argument('mode',choices=['text','image','video','screen','server'])
     parser.add_argument('--text');parser.add_argument('--file',type=Path);parser.add_argument('--models',type=Path,default=MODEL_DIR)
     parser.add_argument('--tv');parser.add_argument('--code');parser.add_argument('--region',help='x,y,genişlik,yükseklik');parser.add_argument('--interval',type=float,default=.6);parser.add_argument('--port',type=int,default=8766)

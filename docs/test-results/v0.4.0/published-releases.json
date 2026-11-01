@@ -1,0 +1,24 @@
+[
+  {
+    "tag": "v0.3.0",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "Lodil-0.3.0-Android.apk",
+        "url": "https://github.com/bladeagent37-commits/Ludil/releases/download/v0.3.0/Lodil-0.3.0-Android.apk",
+        "sha256": "sha256:812fc890fe2ada56ba62af85f5af6e23346145c51686d04be297db4155727a30"
+      },
+      {
+        "name": "Lodil-0.3.0-Windows-x64.zip",
+        "url": "https://github.com/bladeagent37-commits/Ludil/releases/download/v0.3.0/Lodil-0.3.0-Windows-x64.zip",
+        "sha256": "sha256:0deb712669600d79f066611169635e74e6da6829d098bb067c7b89709698ce2c"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "url": "https://github.com/bladeagent37-commits/Ludil/releases/download/v0.3.0/SHA256SUMS.txt",
+        "sha256": "sha256:d155e44a7b2f928ffe33fb65515ba119be8ba833d1a817922bd0a44ebe8564e8"
+      }
+    ]
+  }
+]

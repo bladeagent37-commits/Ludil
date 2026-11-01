@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.7.3">
+
+    <issue
+        id="InsecureBaseConfiguration"
+        severity="Warning"
+        message="Insecure Base Configuration"
+        category="Security"
+        priority="5"
+        summary="Insecure Base Configuration"
+        explanation="Permitting cleartext traffic could allow eavesdroppers to intercept data sent by your app, which impacts the privacy of your users. Consider only allowing encrypted traffic by setting the `cleartextTrafficPermitted` tag to `false`."
+        url="https://goo.gle/InsecureBaseConfiguration"
+        urls="https://goo.gle/InsecureBaseConfiguration,https://developer.android.com/preview/features/security-config.html"
+        errorLine1="&lt;network-security-config>&lt;base-config cleartextTrafficPermitted=&quot;true&quot;>&lt;trust-anchors>&lt;certificates src=&quot;system&quot; />&lt;/trust-anchors>&lt;/base-config>&lt;/network-security-config>"
+        errorLine2="                                                                 ~~~~">
+        <location
+            file="/workspace/scratch/44b541063943/Ludil/app/src/main/res/xml/network_security_config.xml"
+            line="1"
+            column="66"/>
+    </issue>
+
+    <issue
+        id="RtlHardcoded"
+        severity="Warning"
+        message="Use &quot;`Gravity.END`&quot; instead of &quot;`Gravity.RIGHT`&quot; to ensure correct behavior in right-to-left locales"
+        category="Internationalization:Bidirectional Text"
+        priority="5"
+        summary="Using left/right instead of start/end attributes"
+        explanation="Using `Gravity#LEFT` and `Gravity#RIGHT` can lead to problems when a layout is rendered in locales where text flows from right to left. Use `Gravity#START` and `Gravity#END` instead. Similarly, in XML `gravity` and `layout_gravity` attributes, use `start` rather than `left`.&#xA;&#xA;For XML attributes such as paddingLeft and `layout_marginLeft`, use `paddingStart` and `layout_marginStart`. **NOTE**: If your `minSdkVersion` is less than 17, you should add **both** the older left/right attributes **as well as** the new start/end attributes. On older platforms, where RTL is not supported and the start/end attributes are unknown and therefore ignored, you need the older left/right attributes. There is a separate lint check which catches that type of error.&#xA;&#xA;(Note: For `Gravity#LEFT` and `Gravity#START`, you can use these constants even when targeting older platforms, because the `start` bitmask is a superset of the `left` bitmask. Therefore, you can use `gravity=&quot;start&quot;` rather than `gravity=&quot;left|start&quot;`.)"
+        errorLine1="        p.gravity=menuDisplay?(Gravity.TOP|(prefs.bool(&quot;menu_right&quot;,false)?Gravity.LEFT:Gravity.RIGHT)):(Gravity.BOTTOM|Gravity.CENTER_HORIZONTAL);p.y=menuDisplay?m.heightPixels*6/100:m.heightPixels*prefs.integer(&quot;bottom&quot;,6)/100;p.x=menuDisplay?m.widthPixels*2/100:0;p.alpha=.8f;"
+        errorLine2="                                                                                                ~~~~~">
+        <location
+            file="/workspace/scratch/44b541063943/Ludil/app/src/main/java/app/ludil/OverlayService.java"
+            line="81"
+            column="97"/>
+    </issue>
+
+    <issue
+        id="RtlHardcoded"
+        severity="Warning"
+        message="Use &quot;`Gravity.START`&quot; instead of &quot;`Gravity.LEFT`&quot; to ensure correct behavior in right-to-left locales"
+        category="Internationalization:Bidirectional Text"
+        priority="5"
+        summary="Using left/right instead of start/end attributes"
+        explanation="Using `Gravity#LEFT` and `Gravity#RIGHT` can lead to problems when a layout is rendered in locales where text flows from right to left. Use `Gravity#START` and `Gravity#END` instead. Similarly, in XML `gravity` and `layout_gravity` attributes, use `start` rather than `left`.&#xA;&#xA;For XML attributes such as paddingLeft and `layout_marginLeft`, use `paddingStart` and `layout_marginStart`. **NOTE**: If your `minSdkVersion` is less than 17, you should add **both** the older left/right attributes **as well as** the new start/end attributes. On older platforms, where RTL is not supported and the start/end attributes are unknown and therefore ignored, you need the older left/right attributes. There is a separate lint check which catches that type of error.&#xA;&#xA;(Note: For `Gravity#LEFT` and `Gravity#START`, you can use these constants even when targeting older platforms, because the `start` bitmask is a superset of the `left` bitmask. Therefore, you can use `gravity=&quot;start&quot;` rather than `gravity=&quot;left|start&quot;`.)"
+        errorLine1="        p.gravity=menuDisplay?(Gravity.TOP|(prefs.bool(&quot;menu_right&quot;,false)?Gravity.LEFT:Gravity.RIGHT)):(Gravity.BOTTOM|Gravity.CENTER_HORIZONTAL);p.y=menuDisplay?m.heightPixels*6/100:m.heightPixels*prefs.integer(&quot;bottom&quot;,6)/100;p.x=menuDisplay?m.widthPixels*2/100:0;p.alpha=.8f;"
+        errorLine2="                                                                                   ~~~~">
+        <location
+            file="/workspace/scratch/44b541063943/Ludil/app/src/main/java/app/ludil/OverlayService.java"
+            line="81"
+            column="84"/>
+    </issue>
+
+</issues>

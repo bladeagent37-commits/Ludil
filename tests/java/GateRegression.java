@@ -1,5 +1,5 @@
-import app.lodil.SubtitleGate;
-import app.lodil.CaptureGeometry;
+import app.ludil.SubtitleGate;
+import app.ludil.CaptureGeometry;
 
 public final class GateRegression {
     private static int checks;

@@ -1,4 +1,4 @@
-import app.lodil.*;
+import app.ludil.*;
 import org.json.JSONObject;
 import java.net.*;
 import java.nio.charset.StandardCharsets;

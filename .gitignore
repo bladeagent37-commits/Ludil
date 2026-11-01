@@ -23,3 +23,5 @@ __pycache__/
 /desktop/**/bin/
 /desktop/**/obj/
 /desktop/dist/
+
+/qa/
